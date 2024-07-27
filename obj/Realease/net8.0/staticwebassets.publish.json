@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "W4vCUqGpeaGwslaZMy1QWl+ohluzfYj8H6YEqTVRUjY=",
+  "Source": "Senai lh-pets",
+  "BasePath": "_content/Senai lh-pets",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Senai lh-pets\\wwwroot",
+      "Source": "Senai lh-pets",
+      "ContentRoot": "C:\\Users\\SAMSUNG\\OneDrive\\Documentos\\Senai lh-pets\\wwwroot\\",
+      "BasePath": "_content/Senai lh-pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\SAMSUNG\\OneDrive\\Documentos\\Senai lh-pets\\wwwroot\\index.html",
+      "SourceId": "Senai lh-pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SAMSUNG\\OneDrive\\Documentos\\Senai lh-pets\\wwwroot\\",
+      "BasePath": "_content/Senai lh-pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

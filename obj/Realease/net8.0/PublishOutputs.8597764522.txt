@@ -1,0 +1,13 @@
+C:\Users\SAMSUNG\OneDrive\Documentos\Senai lh-pets\bin\Realease\net8.0\publish\Senai lh-pets.exe
+C:\Users\SAMSUNG\OneDrive\Documentos\Senai lh-pets\bin\Realease\net8.0\publish\appsettings.Development.json
+C:\Users\SAMSUNG\OneDrive\Documentos\Senai lh-pets\bin\Realease\net8.0\publish\appsettings.json
+C:\Users\SAMSUNG\OneDrive\Documentos\Senai lh-pets\bin\Realease\net8.0\publish\Senai lh-pets.dll
+C:\Users\SAMSUNG\OneDrive\Documentos\Senai lh-pets\bin\Realease\net8.0\publish\Senai lh-pets.deps.json
+C:\Users\SAMSUNG\OneDrive\Documentos\Senai lh-pets\bin\Realease\net8.0\publish\Senai lh-pets.runtimeconfig.json
+C:\Users\SAMSUNG\OneDrive\Documentos\Senai lh-pets\bin\Realease\net8.0\publish\Senai lh-pets.pdb
+C:\Users\SAMSUNG\OneDrive\Documentos\Senai lh-pets\bin\Realease\net8.0\publish\System.Data.SqlClient.dll
+C:\Users\SAMSUNG\OneDrive\Documentos\Senai lh-pets\bin\Realease\net8.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\SAMSUNG\OneDrive\Documentos\Senai lh-pets\bin\Realease\net8.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\SAMSUNG\OneDrive\Documentos\Senai lh-pets\bin\Realease\net8.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\SAMSUNG\OneDrive\Documentos\Senai lh-pets\bin\Realease\net8.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SAMSUNG\OneDrive\Documentos\Senai lh-pets\bin\Realease\net8.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
