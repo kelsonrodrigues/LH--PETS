@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Senai lh-pets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+574a73375920a77b43bf2d493afa28416775552d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Senai lh-pets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Senai lh-pets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
